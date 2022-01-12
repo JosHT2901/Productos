@@ -1,0 +1,22 @@
+@font-face {
+  font-family: MuseoModerno;
+  src: url('../fuentes/MuseoModerno-Regular.ttf');
+}
+*
+{
+  font-family: MuseoModerno;
+}
+html,
+body {
+  margin: 0px auto;
+  background-color: #e2e2e2;
+}
+html {
+  height: auto;
+  min-width: 500px;
+}
+body
+{
+  min-height: 100%;
+  height: auto;
+}
