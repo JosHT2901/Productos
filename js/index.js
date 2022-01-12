@@ -255,7 +255,7 @@ function GuardarTipo() {
                         })
                         $("#SpanModal").html("")
                         $("#Aviso").html("")
-                        $(".modal-body").html("")
+                        $("#modalBodyContent").html("")
                     }, 400);
                 }
             }
